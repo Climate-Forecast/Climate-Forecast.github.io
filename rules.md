@@ -6,7 +6,6 @@ title: Rules
 TBW:
 - See CONTRIBUTING files from each repo (linked) for implementation details
 - See this diagram
-- Remove errors.md, ensuring it's incorporated here
 - Refactor
 - Note special case for errata
 

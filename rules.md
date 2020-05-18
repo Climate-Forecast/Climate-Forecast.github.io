@@ -8,6 +8,7 @@ TBW:
 - See this diagram
 - Remove errors.md, ensuring it's incorporated here
 - Refactor
+- Note special case for errata
 
 # Rules for CF Conventions Changes
  

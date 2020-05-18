@@ -3,6 +3,12 @@ layout: default
 title: Rules
 ---
 
+TBW:
+- See CONTRIBUTING files from each repo (linked) for implementation details
+- See this diagram
+- Remove errors.md, ensuring it's incorporated here
+- Refactor
+
 # Rules for CF Conventions Changes
  
 New proposals are to be made in github issues using the template, including verbatim changes proposed to the text of standard document and the conformance document.
